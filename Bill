@@ -1,0 +1,3 @@
+Here is a short description of the given Java program:
+
+This Java program simulates the billing process for a restaurant. It takes customer input such as name, dish, and quantity, calculates the total price of the meal based on a fixed price per dish, and generates a detailed bill. The program includes GST calculations (CGST at 2.5% for both central and state tax) and displays the net amount including taxes. The bill also includes live date,Time and a personalized thank-you message at the end. The structure of the output is designed to resemble a real restaurant receipt with clear formatting.
